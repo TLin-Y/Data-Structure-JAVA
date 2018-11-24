@@ -1,0 +1,45 @@
+Oddonacci(1) Number Calculation Result:
+
+1
+
+Method executed 1 times.
+Oddonacci(5) Number Calculation Result:
+
+5
+
+Method executed 7 times.
+Oddonacci(10) Number Calculation Result:
+
+105
+
+Method executed 157 times.
+Oddonacci(15) Number Calculation Result:
+
+2209
+
+Method executed 3313 times.
+Oddonacci(20) Number Calculation Result:
+
+46499
+
+Method executed 69748 times.
+Oddonacci(25) Number Calculation Result:
+
+978793
+
+Method executed 1468189 times.
+Oddonacci(30) Number Calculation Result:
+
+20603361
+
+Method executed 30905041 times.
+Oddonacci(35) Number Calculation Result:
+
+433695873
+
+Method executed 650543809 times.
+Oddonacci(40) Number Calculation Result:
+
+9129195487
+
+Method executed 808891342 times.
